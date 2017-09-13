@@ -37,7 +37,7 @@ do
                 }                  
             }
         }
-        t="~";
+       
     }
     else if(flag==true)
     {
