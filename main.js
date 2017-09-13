@@ -6,10 +6,8 @@ var color=["Jet Black","Black","Silver","Gold","Rose Gold","Red"];
 do
 {    
     if(flag==false)
-    {
-        
+    {        
         t==null ? t=prompt("Укажите объем памяти телефона", "") : t;
-        t==n
         for(var i=0;i<memory.length;i++)
         {
             if(t==memory[i])
@@ -37,9 +35,8 @@ do
                     flag=null;
                 }                  
             }
-            flag=true
-        }
-       
+            flag=true;
+        }     
     }
     else if(flag==true)
     {
